@@ -15,6 +15,7 @@ I am very interested in using AI not just as a helper, but as a **development wo
 
 ##  Projects
 
+- CarVault. Track Fuel & Service - [Google Play](https://play.google.com/store/apps/details?id=com.alex.carvault)
 - AutonomoControl - [GitHub](https://github.com/alexdeveloper909/AutonomoControl), [Link](https://alexdeveloper909.github.io/AutonomoControlWeb/)
 - LensesReminder - [GitHub](https://github.com/alexdeveloper909/LensesReminder)
 
